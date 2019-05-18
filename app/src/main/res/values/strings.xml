@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CastScreen</string>
+    <string name="action_chrome_cast">cast</string>
+
+</resources>
